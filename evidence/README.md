@@ -11,4 +11,4 @@ Selected lab screenshots. The final scan is cropped to omit the target address; 
 | [05-fail2ban-ban-unban.png](05-fail2ban-ban-unban.png) | Manual ban/unban and nftables evidence |
 | [06-final-nmap.png](06-final-nmap.png) | Final standard scan showing two open ports |
 
-Review all files before making the repository public.
+All published evidence has been reviewed for sensitive information. Testing was conducted exclusively within an authorized cybersecurity training environment.
