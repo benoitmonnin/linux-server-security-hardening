@@ -1,0 +1,9 @@
+*.bak
+*.sql
+.env
+.env.*
+*.pem
+*.key
+id_ed25519*
+*.conf
+*.log
